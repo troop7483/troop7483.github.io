@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+<script type="text/javascript">
+var sites = [
+'https://app.abcsmartcookies.com/#/social-link-landing/bdb1985a-72f7-4ec7-8570-22e213a09ccf'
+];
+window.location.href = sites[Math.floor(Math.random() * sites.length)];
+</script>
+</body>
+</html>
